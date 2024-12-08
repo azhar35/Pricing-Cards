@@ -6,11 +6,6 @@ This project showcases a responsive pricing cards layout created using HTML, Boo
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
 
 ## Demo
 The project includes two pricing plans:
